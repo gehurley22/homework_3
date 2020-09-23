@@ -40,7 +40,7 @@ p{padding-top: 15px;
 }
 
 a{font-size: 16px;
-  color: #C12258;
+  color: #B21F50;
   text-decoration-style: wavy;
   text-decoration-line: underline;
 }
@@ -53,7 +53,7 @@ table{
 }
 
 .colhead{
-  background-color: #7e0830;
+  background-color: #7e0820;
   text-transform: uppercase;
   color: #FFFFFF;
   padding: 10px;
@@ -71,6 +71,7 @@ td{
   text-align: center;
   border-top: 2px solid #000000;
   vertical-align: middle;
+  padding: 10px
 }
 
 
@@ -85,7 +86,7 @@ tr:nth-child(odd){
 
 
 tr:hover{
-background-color: rgba(126,8,48,.25);
+background-color: rgba(126,8,32,.25);
 
 }
 
